@@ -1,7 +1,8 @@
 # js_practices
-Practice for JS Programming
+Practice for JavaScript Programming
 
-Welcome to my JS Practices Repro with challenges for JS during my study.
-I will solve Mathematical Problems and also Algorithm which i have in my study in business informatics.
+Welcome to my JavaScript Practices Repro with challenges for JS to my road to Web3 Development.
+I will solve Mathematical Problems and also Algorithm with challanges found on the internet.
+
 
 
